@@ -1,0 +1,13 @@
+# here i learnt the introduction of strings 
+
+a = 'Gukirat Singh'                    # single quote string
+
+b = "Gurkirat Singh"                   # double quote string
+
+c =  '''Gurkirat Singh'''              # triple single quote string
+
+d =  """Gurkirat Singh"""              # triple double quote string 
+
+ #  triple single and double quote is used for multiline strings
+
+'''also this is used for taking commments in python  multiline comments'''
