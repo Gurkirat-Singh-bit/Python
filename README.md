@@ -1,4 +1,4 @@
-# ![Python Logo](https://www.python.org/static/community_logos/python-logo.png) 
+
 # Python : Computer Language :)
 
 Welcome to my Python learning repository! Myself Gurkirat singh , and this repository documents my Python learning journey, based on the tutorials by *CodeWithHarry*. It includes detailed explanations of each chapter, practical examples, and several projects to reinforce understanding.  
