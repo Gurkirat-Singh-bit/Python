@@ -13,27 +13,7 @@ The course by *CodeWithHarry* is perfect for beginners. It starts with the basic
 
 This repository is divided into chapters, each covering a specific topic, along with projects to apply the learned concepts.  
 
----
 
-## 📂 Table of Contents  
-
-1. [Chapter 1: Modulus, Commands, and PIP](#chapter-1-modulus-commands-and-pip)  
-2. [Chapter 2: Variables and Data Types](#chapter-2-variables-and-data-types)  
-3. [Chapter 3: Strings](#chapter-3-strings)  
-4. [Chapter 4: Lists and Tuples](#chapter-4-lists-and-tuples)  
-5. [Chapter 5: Dictionary and Set](#chapter-5-dictionary-and-set)  
-6. [Chapter 6: Conditional Expressions](#chapter-6-conditional-expressions)  
-7. [Chapter 7: Loops in Python](#chapter-7-loops-in-python)  
-8. [Chapter 8: Functions and Recursion](#chapter-8-functions-and-recursion)         
-   ↪[Project 1: Snake, Water, Gun Game](#project-1-snake-water-gun-game)  
-9. [Chapter 9: File Input and Output](#chapter-9-file-input-and-output)  
-10. [Chapter 10: Object-Oriented Language](#chapter-10-object-oriented-language)  
-11. [Chapter 11: Inheritance and More in OOP](#chapter-11-inheritance-and-more-in-oop)  
-    ↪[Project 2: The Perfect Guess Game](#project-2-the-perfect-guess-game)  
-12. [Chapter 12: Advanced Python 1](#chapter-12-advanced-python-1)  
-13. [Chapter 13: Advanced Python 2](#chapter-13-advanced-python-2)  
-    ↪[Mega Project 1: Jarvis (Virtual Assistant)](#mega-project-1-jarvis-virtual-assistant)  
-    ↪[Mega Project 2: Auto-Reply AI Chatbot](#mega-project-2-auto-reply-ai-chatbot)  
 
 ---
 
